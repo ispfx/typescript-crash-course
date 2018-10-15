@@ -2,8 +2,8 @@
 const cart = [];
 
 // Add a new product to the cart
-function add(name: string, price: number, qty: number): void {
-  cart.push({ name, price, qty });
+function add(name: string, price: number, qty: number, onSale: boolean = false): void {
+  cart.push({ name, price, qty, onSale });
 }
 
 // Get cart total
@@ -19,7 +19,7 @@ function total(): number {
 add('Apples', 149, 5);
 add('Oranges', 299, 3);
 add('Bananas', 99, 3);
-add('Chicken', 599, 2);
+add('Chicken', 599, 2, true);
 
 // Get cart total
 const cartTotal = total();
