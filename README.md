@@ -4,7 +4,7 @@ This is a brief collection of TypeScript classes and variables demonstrating the
 
 ### Building Your Own TypeScript Files
 
-This solution is intended to accompany [Introduction to SharePoint Framework](https://sharepointfx.io/), an online educational course that helps you to learn modern SharePoint Framework development techniques. Learn how to build your TypeScript classes and variables by following the lessons found at [sharepointfx.io](https://sharepointfx.io/).
+This solution is intended to accompany [Introduction to SharePoint Framework](https://sharepointfx.io/), an online educational course that helps you to learn modern SharePoint Framework development techniques. Learn how to build your own TypeScript classes and variables by following the lessons found at [sharepointfx.io](https://sharepointfx.io/).
 
 ### Getting Started
 
